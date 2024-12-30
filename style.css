@@ -15,3 +15,9 @@ body {
     background: #eee;
     color: darkmagenta;
   }
+
+  .sidebar {
+    width: 300px;
+    background: royalblue;
+    box-sizing: border-box;
+  }
