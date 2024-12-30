@@ -9,3 +9,9 @@ body {
     background: darkmagenta;
     color: white;
   }
+
+  .footer {
+    height: 72px;
+    background: #eee;
+    color: darkmagenta;
+  }
