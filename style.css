@@ -43,6 +43,13 @@ body {
     border-radius: 4px;
   }
 
+  .container {
+    padding: 48px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 32px;
+  }
+
   ul {
     list-style-type: none;
     margin: 0;
